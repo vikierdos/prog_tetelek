@@ -1,0 +1,3 @@
+import elso
+
+elso.osszegzes()
