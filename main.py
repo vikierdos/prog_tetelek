@@ -1,3 +1,5 @@
 import elso
 
-elso.osszegzes()
+# elso.osszegzes()
+
+elso.eldontes()
