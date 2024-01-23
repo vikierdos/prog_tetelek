@@ -1,4 +1,4 @@
 class Szamitogep:
-    def __init__(self, op_r, ram):
-        self.op_r = op_r
-        self.ram = ram
+    def __init__(self, sorok):
+        self.op_r = sorok[0]
+        self.ram = sorok[1]
